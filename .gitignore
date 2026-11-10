@@ -162,3 +162,6 @@ cython_debug/
 #.idea/
 
 
+
+# Files removed from the project but kept locally
+_archive/
